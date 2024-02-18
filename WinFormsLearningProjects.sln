@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{6786DA78-3215-49B6-A5F1-D739E4206D03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Begginer", "1.Begginer", "{5B844F6F-AD41-4C72-81DB-3E3E323FA89C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Intermediate", "2.Intermediate", "{3C198054-A59F-48AC-9038-33E3FA8A7DC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Advanced", "3.Advanced", "{8BE13DFA-6BC8-4EF5-BD0A-3A2545165321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6786DA78-3215-49B6-A5F1-D739E4206D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6786DA78-3215-49B6-A5F1-D739E4206D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6786DA78-3215-49B6-A5F1-D739E4206D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6786DA78-3215-49B6-A5F1-D739E4206D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6786DA78-3215-49B6-A5F1-D739E4206D03} = {5B844F6F-AD41-4C72-81DB-3E3E323FA89C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2230D5C-0C5A-4459-8CE8-C56432E10117}
+	EndGlobalSection
+EndGlobal
